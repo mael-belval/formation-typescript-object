@@ -70,6 +70,8 @@
  * 11. Create the class Controller with the constructor and the methods described above.
  * 
  * 12. Draw a UML diagram of the classes and their associations. Add multiplicities. (with PlantUML or MermaidJS)
+ * 
+ * 13. What critics can you make about the design of the classes? How would you improve it?
  */
 
 import { printColors, printFillings, printNumbers, printShapes } from "./exercise3/set";
