@@ -1,0 +1,17 @@
+{
+  "name": "formation-typescript-object",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "exo": "ts-node src/exercise${0}.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "typescript": "^5.0.2"
+  },
+  "packageManager": "yarn@3.6.2",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
