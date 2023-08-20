@@ -1,5 +1,5 @@
 /**
- * Exercise 3
+ * Exercise 3 - Game Set!
  * 
  * The goal of this exercise is to get familiar with the concept of association, aggregation and composition.
  * The goal is to create a set of classes allowing to play "Set!" (https://en.wikipedia.org/wiki/Set_(card_game))

@@ -1,5 +1,5 @@
 /**
- * Exercise 4
+ * Exercise 4 - Conception mistakes
  * 
  * In our game of Set!, Cards are created in the constructor of the class Game. The class Game is responsible for the
  * lifecycle of the cards.

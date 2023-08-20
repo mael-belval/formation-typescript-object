@@ -1,5 +1,5 @@
 /**
- * Exercise 5
+ * Exercise 5 - Inheritance
  * 
  * The goal of this exercise is to get familiar with the concept of inheritance.
  * 

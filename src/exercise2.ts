@@ -1,5 +1,5 @@
 /**
- * Exercise 2
+ * Exercise 2 - Exceptions
  * 
  * 1. Copy the class Fraction from exercise 1 or export it from exercise1.ts
  * 

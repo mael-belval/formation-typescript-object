@@ -1,5 +1,5 @@
 /**
- * Exercise 1
+ * Exercise 1 - A class
  * 
  * 1. Create a class Fraction with two properties: numerator and denominator, both of type number.
  * 
